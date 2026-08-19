@@ -1,1 +1,1 @@
-# 基于http://learncomputerscience.net/datasets_cnn上的catdog数据集做的一个小型CNN
+# 基于 http://learncomputerscience.net/datasets_cnn 上的catdog数据集做的一个小型CNN
