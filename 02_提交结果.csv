@@ -1,0 +1,2 @@
+dataset,task,model,test_auc_macro_ovr,parameter_count,test_accuracy,checkpoint_epoch
+MNIST,classification,CompactCNN-8-16-32-GAP,0.9998232110046434,6330,0.9847,15
